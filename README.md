@@ -1,5 +1,6 @@
 # Kickstarter-analysis
-Performing analysis on Kickstarter data 
+[This is the link to Kickstarter_challenge.xlsx](/Kickstarter_challenge.xlsx)
+
 # 1. Overview
 The data provide for this project was over 4000 rows and 13 columns. This assignment uses some of the tools like Pivot table, pivot chart, countifs (), and line chart to name a few key functions to show the filter the data and present it in the form of a chart. 
 # 2. Purpose of the Analysis
